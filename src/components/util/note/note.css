@@ -1,0 +1,19 @@
+.hc-note-container {
+    background: var(--third-color);
+    padding: 1rem 1.5rem;
+    max-width: 350px;
+    position: absolute;
+    z-index: 10;
+}
+
+.hc-note-container h3,
+.hc-note-container .hc-note-content {
+    font-family: Roboto, sans-serif;
+    color: #fff;
+    font-size: 0.95rem;
+}
+
+.hc-note-container h3 {
+    font-weight: bold;
+    font-size: 1.05rem;
+}

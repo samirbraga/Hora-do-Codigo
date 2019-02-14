@@ -1,0 +1,22 @@
+.hc-about-container {
+    padding: 5rem 0 3rem 0;
+    background: var(--fourth-color);
+    color: white;
+}
+
+.hc-about-container h2, .hc-about-container h3 {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.hc-about-container .hc-about-image {
+    width: 100%;
+    transform: translateY(-5rem);
+    position: sticky;
+}
+
+.hc-about-container .hc-about-content img {
+    width: 80px;
+    display: block;
+    margin: auto;
+}

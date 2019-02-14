@@ -1,0 +1,33 @@
+.hc-voluntary-container {
+    padding: 3rem 0;
+}
+
+.hc-voluntary-container h2, .hc-voluntary-container h3 {
+    color: var(--second-color);
+    margin-bottom: 1rem;
+}
+
+.hc-voluntary-container .hc-voluntary-image {
+    width: 100%;
+    transform: translateY(-5rem);
+    position: sticky;
+}
+
+.on-mobile .hc-voluntary-container .hc-voluntary-image {
+    margin-bottom: 2rem;
+}
+
+.hc-voluntary-container .hc-voluntary-content img {
+    width: 80px;
+    display: block;
+    margin: auto;
+}
+
+.on-mobile .hc-voluntary-container .hc-voluntary-content img {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.hc-voluntary-container .hc-button-large {
+    background: var(--second-color);
+}

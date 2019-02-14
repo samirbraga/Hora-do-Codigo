@@ -1,0 +1,43 @@
+.hc-donate-container .hc-donate-content {
+    padding: 3rem 0;
+}
+
+.hc-donate-container .hc-donate-square {
+    background: var(--second-color);
+    margin-top: -2rem;
+    margin-bottom: -2rem;
+    margin-right: -2rem;
+    padding: 2rem 0 2rem 2rem;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: flex-start;
+}
+
+.hc-donate-container .hc-donate-square .hc-button-median {
+    color: var(--second-color) !important;
+    background: white !important;
+    margin-top: 1rem;
+}
+
+.hc-donate-container .hc-donate-square .hc-donate-square-text {
+    display: block;
+}
+
+
+.hc-donate-container .hc-donate-square span {
+    line-height: 1rem;
+    margin: 0 !important;
+    padding: 0;
+}
+
+.hc-donate-container h2 {
+    color: var(--second-color);
+}
+
+
+.on-mobile .hc-donate-container .hc-donate-content {
+    padding: 1rem 0 1rem 1rem;
+    margin-bottom: 1rem;
+}

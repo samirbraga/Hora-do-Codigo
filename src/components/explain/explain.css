@@ -1,0 +1,46 @@
+.hc-explain-container .hc-side-square {
+    background: var(--first-color);
+    padding-left: 30px;
+    margin: -3rem 0 -3rem 0;
+    padding: 3rem 0 3rem 2rem !important;    
+    display: flex;
+    align-items: center;
+}
+
+.hc-explain-container .hc-side-square h2 {
+    display: block;
+    font-size: 3rem;
+    line-height: 2rem;
+    color: #fff;
+    margin: 0;
+}
+
+.hc-explain-container .hc-explain-content {
+    padding: 3rem 2rem 2rem 2rem !important;
+}
+
+.on-mobile .hc-explain-container .hc-explain-content {
+    padding: 3rem 1rem 2rem 1rem !important;
+}
+
+.on-mobile .hc-explain-container .hc-explain-content {
+    margin-top: 2rem;
+}
+
+.hc-explain-container .hc-explain-icons {
+    margin-bottom: 4rem;
+}
+
+.hc-explain-container .hc-explain-icons img {
+    margin: 0 auto 1rem auto;
+    display: block;
+    margin-top: 2.5rem;
+}
+
+.hc-explain-container .hc-explain-icons span {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.06rem;
+    text-align: center;
+    margin-top: 1rem;
+    display: block;
+}

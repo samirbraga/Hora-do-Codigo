@@ -1,0 +1,16 @@
+.hc-wallpaper-container {
+    background-image: url('/images/20180615_094033.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 80vh;
+}
+
+.hc-wallpaper-container .hc-wallpaper-wrapper {
+    position: relative;
+    height: 100%;
+}
+
+.hc-wallpaper-container .hc-wallpaper-note {
+    right: 1rem !important;
+}
